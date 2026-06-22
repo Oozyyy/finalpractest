@@ -4,10 +4,14 @@
 
    Скриншоты:
  В начале:
-    <img width="245" height="724" alt="image" src="https://github.com/user-attachments/assets/842114c4-8c98-4d70-9016-3ded31221991" />
+ 
+   <img width="245" height="724" alt="image" src="https://github.com/user-attachments/assets/842114c4-8c98-4d70-9016-3ded31221991" />
 
 В конце:
-    <img width="280" height="719" alt="image" src="https://github.com/user-attachments/assets/2595867c-d585-4254-b281-23c0fd479ea8" />
+
+   <img width="280" height="719" alt="image" src="https://github.com/user-attachments/assets/2595867c-d585-4254-b281-23c0fd479ea8" />
+
+    
 Требования
 
 Python 3.9 или выше.
