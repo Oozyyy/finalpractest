@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+scores.db
+.pytest_cache/
+htmlcov/
+.coverage
